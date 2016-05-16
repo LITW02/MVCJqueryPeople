@@ -1,0 +1,4 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication21\People.Data\bin\Debug\People.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication21\People.Data\bin\Debug\People.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication21\People.Data\obj\Debug\People.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication21\People.Data\obj\Debug\People.Data.pdb
